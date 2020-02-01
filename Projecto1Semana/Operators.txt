@@ -1,0 +1,9 @@
+discretize attributes
+select attributes
+
+
+
+Blending -> Attributes -> Selection -> (Select Attributes)
+Blending -> Examples -> Filter -> (Filter Examples) 
+Cleansing -> Binning -> (User Specification) e ver outros
+Cleansing -> Outliers -> (Detect Outliers (Distances) )

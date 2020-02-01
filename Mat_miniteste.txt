@@ -1,0 +1,28 @@
+Quarta Ficha de avaliação - 28 de Março (Quinta) a 2 de Abril (Terça)
+Cap. 6 - Amostragem Aleatória e Distribuições por Amostragem
+
+- Utilização da Distribuição Normal
+- Aplicação do Teorema do Limite Central.
+
+- Prática do cálculo de probabilidades de distribuições Normais, 
+	:: seja através da consulta de tabelas ou utilização direta da calculadora.
+- utilização da tabela da distribuição Normal 
+	:: (secção 5.4.2, páginas 5-16 e 5-17, slides 5-46 a 5-4)
+
+
+-A passagem para a distribuição Normal padronizada é obrigatória 
+ mesmo para quem usa calculadoras gráficas e será necessário mostrá-la explicitamente.
+
+
+Problemas a resolver:
+- Problemas 3 e 4 dos exercícios dos apontamentos
+	:: sendo que o 3 é MUITO SEMELHANTE aos da ficha e o 4 é um problema de Exame;
+- Problemas 8.2, 8.3 e 8.4 do livro recomendado.
+- exercício 8.6 do livro recomendado recorrendo ao python.
+	:: usar como base o código disponível na secção 3.5 do capítulo 3
+	:: https://github.com/DataScienceUB/introduction-datascience-python-book/blob/master/ch03_Descriptive_Statistics.ipynb
+	:: Este código mostra o funcionamento do TLC para uma distribuição uniforme, numpy.random.random(), 
+	   bastando adaptação-lo para a distribuição exponencial, numpy.random.exponential(). 
+	:: Nota: é necessário fazer mais alguns ajustes além da simples troca da função.
+
+
